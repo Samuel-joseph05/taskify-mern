@@ -12,7 +12,8 @@ Organize your tasks, mark them as completed, and manage productivity efficiently
 * Git installed
 
 ## Installation
-[`git clone https://github.com/Samuel-joseph05/taskify-mern.git cd taskify-mern`]
+`git clone https://github.com/Samuel-joseph05/taskify-mern.git`
+`cd taskify-mern`
 
 Currently, two official plugins are available:
 
